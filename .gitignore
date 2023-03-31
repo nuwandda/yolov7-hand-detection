@@ -1,0 +1,6 @@
+env
+coco
+.idea
+data/annotations
+data/images
+data/labels
