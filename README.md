@@ -46,7 +46,7 @@ Instructions on setting up your project locally.
 To get a local copy up and running follow these simple steps.
 
 ### Download dataset
-To download the dataset, run **getFlickr.sh**.
+To download the dataset, run **getCoco.sh**.
   ```sh
   sudo apt-get install unzip
   sh data/getCoco.sh
